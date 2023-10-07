@@ -1,4 +1,4 @@
-# HoloLens-Streamlit
+# Hologlass-Streamlit
 
 The streamlit app for our 2023 HackUIowa Project: Hologlass.
 
